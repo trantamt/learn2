@@ -35,16 +35,16 @@ https://www.youtube.com/watch?v=0Icla6TVNNo
 Step 1: Check for installing version if any: git --version (if you see command not found meaning not yet installed)
 
 Step 2: Download and install git: 
-	- Windows version: https://git-for-windows.github.io/
-	- https://www.atlassian.com/git/tutorials/install-git
+a) Windows version: https://git-for-windows.github.io/
+b) https://www.atlassian.com/git/tutorials/install-git
 
 Step 3: Signup and create a free account on GitHub - type github from google search
-	- https://github.com/
+a) https://github.com/
 
 Step 4: Add your github email and username to git, go to terminal and issue commands below:
 	The below information is required when you commit your changes so GIT can keep track of who changes what on your local repository.
-	+ $ git config --global user.email "t_hooya@yahoo.com"
-	+ $ git config --global user.name "Tam Tran T."
+a) $ git config --global user.email "t_hooya@yahoo.com"
+b) $ git config --global user.name "Tam Tran T."
 
 Step 5: Create the repository: Add files/folders to git - tracking 
 	- To add the folders to GIT, you first create folder that you want to add to GIT
