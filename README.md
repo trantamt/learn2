@@ -18,7 +18,6 @@ Today We will learn:
 There are two types of GIT: Centralized VCS | Distributed VCS (DVCS)
 Git = DVCS
 
-------------------------------
 2. GIT HUB (GIT Server) - website to upload your repositories online
 	- provides backup
 
@@ -34,7 +33,8 @@ Tutorial 2: Installing Git
 https://www.youtube.com/watch?v=0Icla6TVNNo
 Step 1: Check for installing version if any: git --version (if you see command not found meaning not yet installed)
 
-Step 2: Download and install git: 
+Step 2: Download and install git:
+
 a) Windows version: https://git-for-windows.github.io/
 b) https://www.atlassian.com/git/tutorials/install-git
 
