@@ -27,7 +27,7 @@ Git = DVCS
 	- 
 3. GIT != GIT HUB
 
-4. 
+4. A simple workflow show in note's documents
 
 
 Tutorial 2: Installing Git
@@ -154,3 +154,16 @@ Merge made by the 'recursive' strategy.
  1 file changed, 2 insertions(+)
  create mode 100644 README.md
 
+Step 8: Successfully push 
+C:\myrepository\learn2>git push origin master
+Username for 'https://github.com': trantamt
+Password for 'https://trantamt@github.com':
+Counting objects: 11, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (7/7), done.
+Writing objects: 100% (11/11), 3.40 KiB | 0 bytes/s, done.
+Total 11 (delta 0), reused 0 (delta 0)
+To https://github.com/trantamt/learn2.git
+   f303299..e965ba6  master -> master
+	
+	- Now go to github check, you should see test1.txt files and the README file got updated
