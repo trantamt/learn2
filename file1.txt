@@ -1,2 +1,4 @@
 V1: My initial checkin
 V2: My Update 1 
+V3: update file1.txt for local repository learngit
+V3: update file1.txt second time to learn
